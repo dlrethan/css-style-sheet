@@ -7,6 +7,8 @@ and I was able to do a lot of it! The styling isn't 100% finished yet but I want
 
 Simply click on the link provided below and you'll reach my website!
 
+https://dlrethan.github.io/css-style-sheet/
+
 ### About
 
 This website will serve as a cheat sheet for the css elements I get stuck on the most!
